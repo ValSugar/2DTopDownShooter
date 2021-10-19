@@ -1,4 +1,4 @@
-# It had to be implemented:
+# It was necessary to implement:
 - 2d top-down shooter
 - character can move around the scene 
 - character can fire at least two weapons 
