@@ -7,3 +7,5 @@
 - number of points earned is displayed in the HUD
 
 *do not use third-party plugins
+
+**Took about six hours**
